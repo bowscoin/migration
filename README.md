@@ -1,5 +1,7 @@
 # Migration BowsCoin on XLM asset. 
+
 Data start: 08 March 2019
+
 Data stop: 30 April 2019
 
 1. Generate asset: https://stellar.expert/explorer/public/asset/BSC-GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
