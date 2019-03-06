@@ -21,10 +21,7 @@ Data stop: 30 April 2019
  
 4. Afte 'Data stop' return unclaimed BSC asset on issuing address: GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X.
 
-   Total asset: BSC, issuing_address = Balance burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
-   
-   Balance BSC treasury address:
-   GBUUCSASATFBCGVGNYIM7M4TIVGSVPC2H6R32D35IO6MUU2QOVFSOWF3 = 0
+   Total asset BSC = Balance burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    
    !!!Issuance of additional assets is not possible!!!
    
