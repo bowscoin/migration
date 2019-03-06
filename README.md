@@ -19,7 +19,7 @@ Data stop: 30 April 2019
    3.4. Add trust line your XLM wallet for asset: BSC-GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
    (Desktop: https://github.com/stellarchat/desktop-client/releases On-line: https://stellarterm.com/#account)
  
-4. Afte 'Data stop' return unclaimed BSC asset on issuing_address.
+4. Afte 'Data stop' return unclaimed BSC asset on issuing address: GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X.
 
    Total asset: BSC, issuing_address = Balance burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    
