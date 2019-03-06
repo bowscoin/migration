@@ -1,6 +1,6 @@
 # Migration BowsCoin on XLM asset. 
 
-Data start: 08 March 2019
+Data start: 06 March 2019
 
 Data stop: 30 April 2019
 
