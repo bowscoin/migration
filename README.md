@@ -4,7 +4,7 @@ Data stop: 30 April 2019
 
 1. Generate asset: BSC, issuing_address (will be specified after generation asset).
 
-2. Send 21,000,000 BSC to treasury address: GCHAOPEUNEYMYXYDN474AWCEQ2TWOFGRLEMZKD353EOR2A7HTSC7NT3B
+2. Send 21,000,000 BSC to treasury address: GBUUCSASATFBCGVGNYIM7M4TIVGSVPC2H6R32D35IO6MUU2QOVFSOWF3
 
 3. Acceptance of applications for migration:
 
@@ -24,7 +24,7 @@ Data stop: 30 April 2019
    Total asset: BSC, issuing_address = Balance burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    
    Balance BSC treasury address:
-   GCHAOPEUNEYMYXYDN474AWCEQ2TWOFGRLEMZKD353EOR2A7HTSC7NT3B = 0
+   GBUUCSASATFBCGVGNYIM7M4TIVGSVPC2H6R32D35IO6MUU2QOVFSOWF3 = 0
    
    !!!Issuance of additional assets is not possible!!!
    
