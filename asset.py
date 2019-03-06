@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Attention!!! At end of script issuing_secret will be lost!!!
 
 from stellar_base.keypair import Keypair
 from stellar_base.asset import Asset
@@ -36,7 +37,7 @@ def issue_asset(keypair):
         resp = builder.submit()
         print(resp)
 
-    #send asset
+    #send asset to treasury address
     receiving_public = Keypair.from_seed(receiving_secret).address().decode()
     amount = raw_input('Amount: ')
     builder = Builder(issuing_secret, network=network).append_payment_op(destination=receiving_public, amount=amount, asset_code=my_asset.code, asset_issuer=my_asset.issuer)
