@@ -2,7 +2,7 @@
 Data start: 08 March 2019
 Data stop: 30 April 2019
 
-1. Generate asset: BSC, issuing_address (will be specified after generation asset).
+1. Generate asset: https://stellar.expert/explorer/public/asset/BSC-GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
 
 2. Send 21,000,000 BSC to treasury address: GBUUCSASATFBCGVGNYIM7M4TIVGSVPC2H6R32D35IO6MUU2QOVFSOWF3
 
@@ -16,7 +16,7 @@ Data stop: 30 April 2019
    
    3.3. Send email to bowscoin@gmail.com, text:  <bowscoinaddress> <signature> <message> <amount>
    
-   3.4. Add trust line your XLM wallet for asset: BSC, issuing_address
+   3.4. Add trust line your XLM wallet for asset: BSC-GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
    (Desktop: https://github.com/stellarchat/desktop-client/releases On-line: https://stellarterm.com/#account)
  
 4. Afte 'Data stop' return unclaimed BSC asset on issuing_address.
