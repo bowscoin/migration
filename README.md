@@ -13,10 +13,10 @@ Data stop: 30 April 2019
    3.1. Send your BowsCoin to burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    !!!Sending only from your personal wallet!!!
    
-   3.2. Sign the message: bowscoind signmessage <bowscoinaddress:your_BowsCoin_address> <message:your_XLM_address>
+   3.2. Sign the message: bowscoind signmessage bowscoinaddress:your_BowsCoin_address message:your_XLM_address
    (sample result signature: Hz+ucFfWwuShRT4XdghfS8mV4GJLCUvDlisu8rO7dCqXCoVkd+Lt3JcjRrrX8JEM6Jd/Rmxi55abUKkmoVyq6Gg=)
    
-   3.3. Send email to bowscoin@gmail.com, text:  <bowscoinaddress> <signature> <message> <amount>
+   3.3. Send email to bowscoin@gmail.com, text:  bowscoinaddress signature message amount
    
    3.4. Add trust line your XLM wallet for asset: BSC-GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
    (Desktop: https://github.com/stellarchat/desktop-client/releases On-line: https://stellarterm.com/#account)
