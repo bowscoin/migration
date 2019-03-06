@@ -23,7 +23,8 @@ Data stop: 30 April 2019
 
    Total asset: BSC, issuing_address = Balance burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    
-   Balance BSC treasury address: GCHAOPEUNEYMYXYDN474AWCEQ2TWOFGRLEMZKD353EOR2A7HTSC7NT3B = 0
+   Balance BSC treasury address:
+   GCHAOPEUNEYMYXYDN474AWCEQ2TWOFGRLEMZKD353EOR2A7HTSC7NT3B = 0
    
    !!!Issuance of additional assets is not possible!!!
    
