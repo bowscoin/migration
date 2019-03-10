@@ -31,8 +31,9 @@ def issue_asset(keypair):
 
     #set_flag AUTH_REQUIRED = 0x1, AUTH_REVOCABLE = 0x2, AUTH_IMMUTABLE = 0x4 (https://www.stellar.org/developers/guides/concepts/accounts.html#flags)
     flag = 0x4
+    home_domain = raw_input('Home domain: ')
     if flag != 0:
-        builder = Builder(issuing_secret, network=network).append_set_options_op(set_flags=flag, source=my_asset)
+        builder = Builder(issuing_secret, network=network).append_set_options_op(home_domain=home_domain, set_flags=flag, source=my_asset)
         builder.sign()
         resp = builder.submit()
         print(resp)
