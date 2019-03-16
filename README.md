@@ -11,7 +11,6 @@ Data stop: 30 April 2019
 3. Acceptance of applications for migration:
 
    3.1. Send your BowsCoin to burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
-   
    ### !!!Sending only from your personal wallet!!!
    
    3.2. Sign the message: bowscoind signmessage [bowscoinaddress](http:// "your_BowsCoin_address") [message](http://  "your_XLM_address")
