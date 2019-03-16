@@ -1,4 +1,4 @@
-# Migration BowsCoin on XLM asset. 
+# Migration BowsCoin on XLM asset
 
 Data start: 06 March 2019
 
@@ -12,7 +12,7 @@ Data stop: 30 April 2019
 
    3.1. Send your BowsCoin to burning address: BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf
    
-   ### !!!Sending only from your personal wallet!!! ###
+   ### !!!Sending only from your personal wallet!!!
    
    3.2. Sign the message: bowscoind signmessage [bowscoinaddress](http:// "your_BowsCoin_address") [message](http://  "your_XLM_address")
    (sample result [signature](http:// "Hz+ucFfWwuShRT4XdghfS8mV4GJLCUvDlisu8rO7dCqXCoVkd+Lt3JcjRrrX8JEM6Jd/Rmxi55abUKkmoVyq6Gg="))
