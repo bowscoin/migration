@@ -32,3 +32,4 @@ Data stop: 30 April 2019
    
    !!!Support BowsCoin repositories, node, explorer will be stopped!!!
    
+   # Migration is complete
