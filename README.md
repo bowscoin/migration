@@ -23,7 +23,7 @@ Data stop: 30 April 2019
    
    3.5. Termination of applications 20 April 2019!
  
-4. Afte 'Data stop' return unclaimed BSC asset on issuing address: GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
+4. Afte 'Data stop' return unclaimed BSC assets on issuing address: [GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X](https://stellar.expert/explorer/public/tx/101616426552406016#101616426552406017 "return unclaimed BSC assets")
 
    Total asset BSC = Balance [burning address](http://bows.network/address/BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf)
    ![](https://github.com/bowscoin/migration/blob/master/Burning_address.png "Balance burning address on Data stop")
