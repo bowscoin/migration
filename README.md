@@ -26,6 +26,7 @@ Data stop: 30 April 2019
 4. Afte 'Data stop' return unclaimed BSC asset on issuing address: GBLTTRJXIAK7Z5YFXCJ33EQ3UX2ZYMPH7VDHWOCF6YOSLBWGM6HGED2X
 
    Total asset BSC = Balance [burning address](http://bows.network/address/BSCtoXLMBurninfzzzzzzzzzzzzzxS3QUf)
+   ![](https://github.com/bowscoin/migration/blob/master/Burning_address.png "Balance burning address on Data stop")
    
    !!!Issuance of additional assets is not possible!!!
    
